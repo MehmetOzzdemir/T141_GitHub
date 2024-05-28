@@ -3,5 +3,6 @@ public class P01 {
         System.out.println("Merhaba");
 
         int a=120;
+        System.out.println("Java candir gerisi heyecandir");
     }
 }
